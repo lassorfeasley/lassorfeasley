@@ -2,7 +2,7 @@
 
 I turn complex ideas into simple products, handling everything from brand and UI/UX to production code.
 
-By day I build the investing platform at [Renewables.org](https://renewables.org). On the side I ship small products end to end. A few are pinned below.
+By day I build the investing platform at [Renewables.org](https://renewables.org). On the side I ship ambitious products end to end. A few are pinned below.
 
 **Portfolio:** [lassor.com](https://www.lassor.com)
 

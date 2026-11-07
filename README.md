@@ -8,6 +8,9 @@ By day I build the investing platform at [Renewables.org](https://renewables.org
 
 <table>
   <tr>
+    <td colspan="2"><a href="https://www.renewables.org"><img src="images/renewables.png" alt="Renewables.org"></a><br><b>Renewables.org</b>: 0% interest loans that fund solar across the Global South</td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://www.swiper.fit"><img src="https://raw.githubusercontent.com/lassorfeasley/www.Swiper.Fit/main/docs/screenshot.png" alt="Swiper"></a><br><b>Swiper</b>: workout logging for iPhone and Apple Watch</td>
     <td width="50%"><a href="https://gracious.host"><img src="https://raw.githubusercontent.com/lassorfeasley/www.Gracious.host/main/docs/screenshot.png" alt="Gracious"></a><br><b>Gracious</b>: a booking calendar for your guest rooms</td>
   </tr>
